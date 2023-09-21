@@ -15,3 +15,5 @@ Recomended Materials: PLA*(Easiest to Print), ABS, ASA
 Possible Materials: PETG, PC
 
 The BOM has markings for all madatory parts for V1.
+
+WATCH THE VIDEO TO ENSURE A SMOOTH INSTALATION PROCESS!
