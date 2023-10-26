@@ -15,6 +15,8 @@ Recomended Materials: PLA*(Easiest to Print), ABS, ASA
 Possible Materials: PETG, PC
 
 The BOM has markings for all madatory parts for V1.
- *(VIDEO IS CURRENTLY IN THE MAKING AND WILL BE UPLOADED AT THE END OF THE MONTH)
+ *(VIDEO IS ON HOLD RIGHT NOW SINCE I DONT HAVE THE TIME TO MAKE IT AT THE MOMENT)
 
 WATCH THE VIDEO TO ENSURE A SMOOTH INSTALATION PROCESS!
+
+FULL LINEAR RAIL CONVERSION LINK ---->>> https://myhub.autodesk360.com/ue2fac820/g/shares/SH512d4QTec90decfa6e4f899bbdefcceff1
