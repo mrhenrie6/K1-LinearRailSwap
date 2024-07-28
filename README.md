@@ -1,4 +1,7 @@
 # K1-LinearRailSwap
+THIS PROJECT IS NOT RECOMENDED BY ME FOR INSTALLATION AND THIS REPOSITORY IS NOW ONLY UP FOR OTHERS REFFERENCE WHEN CREATING THEIR OWN DESIGN.
+
+
 This project is for the Creality K1 Speedy, not the K1 Max. It contains the information for how to swap one of the linear rods on the K1 x axis for a linear rail. The overall project goal is to make the K1 more modifiable and easier to maintain and tune. 
 
 The instalation video shows how to instal V1, which is the recomended version as it is the easiest to work with, Is the most tested, and is the cheapest option. V2 and V3 use two different backings to the linear rail wich may or may not improve preformance as they have not been tested yet, and are in the beta phase of design. They are still included in the Fusion Archive File. 
